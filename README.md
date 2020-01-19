@@ -1,1 +1,2 @@
-# folder_setup
+# Project 1
+## Folder Structure & Wireframes
